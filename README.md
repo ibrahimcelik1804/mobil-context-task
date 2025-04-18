@@ -34,7 +34,7 @@ npm run ios
 </ul>
 
 <h2>🎨 Proje Görseli</h2>
-<img src="./src/assets/images/Gorsel.gif" alt="Proje Görseli" width="300"/>
+<img src="./src/assets/images/Gorsel.gif" alt="Proje Görseli" width="300" style={{borderRadius: 15}}/>
 
 <h2>🗃 Paket Yapısı</h2>
 <ul>
